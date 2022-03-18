@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/routes6/static/css/main.13b9442d.css",
+    "main.js": "/routes6/static/js/main.b03d0173.js",
+    "index.html": "/routes6/index.html",
+    "main.13b9442d.css.map": "/routes6/static/css/main.13b9442d.css.map",
+    "main.b03d0173.js.map": "/routes6/static/js/main.b03d0173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b9442d.css",
+    "static/js/main.b03d0173.js"
+  ]
+}
